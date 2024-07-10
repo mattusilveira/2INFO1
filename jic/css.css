@@ -1,11 +1,13 @@
 h1,
 h2 {
+    font-size: 50px;
     color: rgb(26, 41, 92);
     text-align: left;
     align-items: center;
 }
 
 h3 {
+    font-size: 50px;
     color: crimson;
     text-align: center;
     align-items: center;
