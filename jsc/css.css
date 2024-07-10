@@ -1,0 +1,12 @@
+h1,
+h2 {
+    color: rgb(26, 41, 92);
+    text-align: left;
+    align-items: center;
+}
+
+h3 {
+    color: crimson;
+    text-align: center;
+    align-items: center;
+}
